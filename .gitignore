@@ -1,0 +1,8 @@
+# YOLO model
+chicken_monitoring/assets/model/best.pt
+
+# Except csv file in datasets
+!chicken_monitoring/assets/datasets/*.csv
+
+# Virtual env
+.venv
