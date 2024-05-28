@@ -1,5 +1,5 @@
 # YOLO model
-ssrc/chicken_monitoring/assets/model/*
+src/chicken_monitoring/assets/model/*
 
 # Except csv file in datasets
 !src/chicken_monitoring/assets/datasets/*.csv
